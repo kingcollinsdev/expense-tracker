@@ -5,7 +5,8 @@ This project consists of a expense tracker that can track your income and expens
 
 ## Screenshots
 
-![C:\Users\colli\Downloads\screencapture-expense-tracker-three-eosin-83-vercel-app-2026-04-28-13_00_21.png]()
+![<img width="1920" height="1127" alt="screencapture-expense-tracker-three-eosin-83-vercel-app-2026-04-28-13_00_21" src="https://github.com/user-attachments/assets/6dff73b9-0689-4573-a242-b05853bd0546" />
+]()
 
 
 ## Features
