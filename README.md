@@ -84,10 +84,8 @@ project-name/
 
 Your Name - Collins Wachira Ndegwa - collinswachira2004@gmail.com
 
-Project Link: [https://github.com/your-username/project-name](https://github.com/your-username/project-name)
+Project Link: [https://expense-tracker-three-eosin-83.vercel.app/]
 
 ## Acknowledgments
 
-- Inspiration or resources you used
-- Libraries or tools that helped
-- People who contributed or inspired the project
+- Inspiration :- https://www.youtube.com/watch?v=kAiX0itnonM&t=13648s
